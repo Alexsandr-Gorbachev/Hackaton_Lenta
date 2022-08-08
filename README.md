@@ -1,7 +1,4 @@
 # Hackaton_Lenta
-Rec sys competition
-
-# Hackaton_Lenta
 
 Hackaton Lenta 25.03.22 - 27.03.22 team: ODS_СОБЕСЫ_p2p
 Команда вышла в финал, решение попало в ТОП-10.
